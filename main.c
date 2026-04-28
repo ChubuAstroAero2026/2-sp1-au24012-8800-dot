@@ -4,7 +4,7 @@ int main()
 {
   double a;
   int b;
-  scanf("%fl",&a);
+  scanf("%lf",&a);
   scanf("%d",&b);
   printf("%.*f",b,a);
   return 0;
