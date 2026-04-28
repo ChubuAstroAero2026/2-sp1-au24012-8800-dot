@@ -5,7 +5,7 @@ int main()
   double a;
   int b;
   scanf("%fl",&a);
-  scanf("%f",&b);
+  scanf("%d",&b);
   printf("%.*f",b,a);
   return 0;
 }
